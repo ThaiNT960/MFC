@@ -6,7 +6,7 @@
 *.sln.docstates
 *.aps
 
-# Build output directories (including those inside each weekly project)
+# Build output directories
 Debug/
 Release/
 x64/
