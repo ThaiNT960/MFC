@@ -1,0 +1,34 @@
+# Visual Studio workspace and per-user settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.aps
+
+# Build output directories (including those inside each weekly project)
+Debug/
+Release/
+x64/
+Win32/
+ipch/
+
+# Generated compiler, linker, and IntelliSense files
+*.obj
+*.pch
+*.ipch
+*.pdb
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.res
+*.tlog
+*.lastbuildstate
+*.recipe
+*.VC.db
+*.VC.opendb
+*.exe
+*.dll
+*.exp
+*.lib
